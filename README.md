@@ -16,7 +16,10 @@
 -  💻 Currently working on multiple projects like Web Dev using Nodejs, Patient monitoring System (IOT), NLP Chatbot.
 -  👨🏽‍💻 Currently learning Full stack Web Development and Data Structures & Algorithms...
 
-![giphy](https://user-images.githubusercontent.com/72924364/152655408-2daa9b49-83d7-40e4-9a4e-b69bbad344b2.gif) 
+<p align="center"> 
+<img src="https://user-images.githubusercontent.com/72924364/152698646-bb51161e-53e9-49e3-b3b2-a3b3a4c3addd.gif" width="500"/>
+ </p>
+
 
 
 I am also an open-source enthusiast .I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. I have succesfully completed Hacktober Fest 2021.
@@ -69,6 +72,8 @@ You can click the Preview link to take a look at your changes.
 
 [instagram]: https://instagram.com/anshuman.pdf?utm_medium=copy_link
 [linkedin]: https://www.linkedin.com/in/anshuman-singh-100176191
+
+
 
 <!-- retro visitor counter -->  
 <p align="center" >   
