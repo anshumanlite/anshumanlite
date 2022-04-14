@@ -17,7 +17,7 @@
 -  👨🏽‍💻 Currently learning Full stack Web Development and Data Structures & Algorithms...
 
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/72924364/152698646-bb51161e-53e9-49e3-b3b2-a3b3a4c3addd.gif" width="500"/>
+<img src="https://user-images.githubusercontent.com/72924364/152698646-bb51161e-53e9-49e3-b3b2-a3b3a4c3addd.gif" width="250"/>
  </p>
 
 
