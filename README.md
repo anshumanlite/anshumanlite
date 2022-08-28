@@ -3,7 +3,7 @@
 
 </p>
 <hr/>
-<h5 align="center">I am a 3rd year Computer Science Student. I am currently pursuing my B.Tech degree from Vellore Institute of Technology, Chennai.</h4>
+<h5 align="center">I am a 4th year Computer Science Student. I am currently pursuing my B.Tech degree from Vellore Institute of Technology, Chennai.</h4>
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
  </p>
